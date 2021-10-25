@@ -23,7 +23,8 @@ website link :-
 
 ## Landing Page
 
-<img src="https://github.com/bhupatjangid/my_secrets/blob/main/landing_page.JPG" width="800"/>
+<img src="https://github.com/bhupatjangid/CricPrediction/blob/main/ml_landing.JPG" width="800"/>
+
 
 
 ## Register Page
