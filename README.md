@@ -2,29 +2,24 @@
 # CricPrediction
 website link :- 
 
-- A web application that predicts IPL match inning score using different Machine Learning Models.
+- A web application that predicts IPL match inning score using different Machine Learning Algorithms.                          
 
 ### Website link: http://bhupatml.herokuapp.com/
 
-### Features
-1. Responsive UI
-2. Landing Page
-3. Register and Login page
-4. Authentication
-5. User's Secret Page
-6. Add Secrets
-7. Delete Secrets
-8. Logout
+### Process
+1. Select Batting Team
+2. Select Bowling Team
+3. Enter Current Status (Overs, Score, Wickets)(After 5 overs for more efficiency)
+4. Enter Performance of last 5 overs
+5. Predict Score
 
-### Technology Stack
-1. HTML
-2. CSS
-3. Bootstrap 4
-4. JavaScript
-5. JQuery
-6. Node.JS
-7. Express.JS
-8. MongoDB
+### Steps
+1. Data Collection
+2. Data Cleaning
+3. Data Processing
+4. Model Selection
+5. Model Training
+6. Make Predictions
 
 ## Landing Page
 
@@ -34,25 +29,6 @@ website link :-
 ## Register Page
 
 <img src="https://github.com/bhupatjangid/my_secrets/blob/main/register.JPG" width="800"/>
-
-## Register varification Page
-
-<img src="https://github.com/bhupatjangid/my_secrets/blob/main/reg_var.JPG" width="800"/>
-
-
-## Login Page
-
-<img src="https://github.com/bhupatjangid/my_secrets/blob/main/login.JPG" width="800"/>
-
-## Login varification Page
-
-<img src="https://github.com/bhupatjangid/my_secrets/blob/main/login_password.JPG" width="800"/>
-
-
-## Secrets Page
-
-<img src="https://github.com/bhupatjangid/my_secrets/blob/main/Secret_page.JPG" width="800"/>
-
 
 
 
