@@ -23,13 +23,13 @@ website link :-
 
 ## Landing Page
 
-<img src="https://github.com/bhupatjangid/CricPrediction/blob/main/ml_landing.JPG" width="800"/>
+<img src="https://github.com/bhupatjangid/CricPrediction/blob/main/ml_landing_page.JPG" width="800"/>
 
 
 
-## Register Page
+## Prediction Page
 
-<img src="https://github.com/bhupatjangid/my_secrets/blob/main/register.JPG" width="800"/>
+<img src="https://github.com/bhupatjangid/CricPrediction/blob/main/ml_pred_page.JPG" width="800"/>
 
 
 
